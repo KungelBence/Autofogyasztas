@@ -1,5 +1,4 @@
 
-
 function szamol () {
     let F = document.getElementById('fogyasztás').value;
     let V = document.getElementById('tank').value;
@@ -15,3 +14,4 @@ function szamol () {
     document.getElementById('megoldas').innerHTML = "Az út megtehető tankolás nélkül";
 }
 }
+document.getElementById('szamol').click
